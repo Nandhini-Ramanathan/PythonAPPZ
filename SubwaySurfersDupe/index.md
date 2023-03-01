@@ -4,12 +4,12 @@
 
 ### Start Screen
 
-![Calculator](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/calc.png?raw=true) 
+![Start](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/calc.png?raw=true) 
 
 ### During Play
 
-![SpaceGame](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
+![During](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
 
 ### End Screen
 
-![SpaceGame](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
+![End](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
