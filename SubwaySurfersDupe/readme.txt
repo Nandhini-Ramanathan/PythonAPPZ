@@ -1,11 +1,11 @@
-##Subway Surfer's Dupe
+## Subway Surfer's Dupe
 
-##3 GUI Mockups
+## 3 GUI Mockups
 
-###Start Screen
+### Start Screen
 
-###During Play
+### During Play
 
-###Game Over
+### Game Over
 
 
