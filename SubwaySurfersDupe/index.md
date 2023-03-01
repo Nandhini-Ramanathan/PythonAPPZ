@@ -1,21 +1,15 @@
-# Welcome to Nandhini's Programming Portfolio
+# Subway Surfers Remake
 
-## Programming Semester 1 Projects:
+## 3 GUI Mockups
 
-### Calculator
-
-OOP graphical calculator using Processing.
+### Start Screen
 
 ![Calculator](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/calc.png?raw=true) 
 
-[Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/calc)
-
-### Space Game
-
-Interactive computer game using Processing
+### During Play
 
 ![SpaceGame](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
 
-[Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/spacegame)
+### End Screen
 
-### Etch A Sketch
+![SpaceGame](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
