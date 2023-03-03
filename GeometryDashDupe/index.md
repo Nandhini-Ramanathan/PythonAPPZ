@@ -18,5 +18,5 @@
 
 ## Class Diagram
 
-![Class]() 
+![Class](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/5409FE9F-AB08-4089-9913-B31193CB8511.jpeg?raw=true) 
 
