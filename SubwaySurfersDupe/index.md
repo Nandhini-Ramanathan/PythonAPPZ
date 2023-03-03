@@ -21,4 +21,4 @@ This is a PC or mobile game to play at any time! Essentially a re make of Subway
 ## Class Diagram
 
 ![Class](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/0ef01d68d78e8cb2175a85a06090d22d092bfc0f/Images/classes%20%22subway%20surf%22.png) 
-![Classezz]() 
+![Classezz](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/classezzz.jpg?raw=true) 
