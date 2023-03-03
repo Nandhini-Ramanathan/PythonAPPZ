@@ -4,12 +4,12 @@
 
 ### Start Screen
 
-![Start](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/calc.png?raw=true) 
+![Start]() 
 
 ### During Play
 
-![During](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
+![During]() 
 
 ### End Screen
 
-![End](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
+![End]() 
