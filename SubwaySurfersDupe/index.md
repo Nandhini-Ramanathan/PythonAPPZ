@@ -1,5 +1,7 @@
 # Subway Surfers Remake
 
+### Short Description
+
 ## 3 GUI Mockups
 
 ### Start Screen
@@ -13,3 +15,7 @@
 ### End Screen
 
 ![End]() 
+
+## Class Diagram
+
+![Class]() 
