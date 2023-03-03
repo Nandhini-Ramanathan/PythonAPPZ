@@ -6,7 +6,7 @@
 
 ### Start Screen
 
-![Start]() 
+![Start](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/ninja%20start.jpg?raw=true) 
 
 ### During Play
 
