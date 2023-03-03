@@ -10,7 +10,7 @@
 
 ### During Play
 
-![During]() 
+![During](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/02f3bdaa20c7d2b4528d4ad0ebdedcf9bbb0727c/Images/Image.jpeg) 
 
 ### End Screen
 
