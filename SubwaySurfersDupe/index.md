@@ -2,6 +2,8 @@
 
 ### Short Description
 
+This is a PC or mobile game to play at any time! Essentially a re make of Subway Surfers, but even more fun. The main point of the game is to make your character (the ninja) chop up as many fruits as possible while being on the run. Remember, don't chop the bomb or else your ninja dies!
+
 ## 3 GUI Mockups
 
 ### Start Screen
