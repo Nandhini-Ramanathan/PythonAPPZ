@@ -1,6 +1,6 @@
 # Geometry Dash Remake
 
-### Short Description
+### A geometry dash duplication similar to the original game but with different levels and powerups. Click to make the cube jump over and on obstacles and try to get through the level. 
 
 ## 3 GUI Mockups
 
