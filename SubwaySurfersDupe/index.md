@@ -20,5 +20,5 @@ This is a PC or mobile game to play at any time! Essentially a re make of Subway
 
 ## Class Diagram
 
-(<img width="885" alt="class diagram 2 0" src="https://user-images.githubusercontent.com/111709553/226434163-46c6e350-b5c8-4ac6-bf44-105ff40d3f03.png">)
-(<img width="612" alt="cat" src="https://user-images.githubusercontent.com/111539321/226434471-dd399511-3647-4aae-a865-1f20629affa7.png">)
+<img width="885" alt="class diagram 2 0" src="https://user-images.githubusercontent.com/111709553/226434163-46c6e350-b5c8-4ac6-bf44-105ff40d3f03.png">
+<img width="612" alt="cat" src="https://user-images.githubusercontent.com/111539321/226434471-dd399511-3647-4aae-a865-1f20629affa7.png">
