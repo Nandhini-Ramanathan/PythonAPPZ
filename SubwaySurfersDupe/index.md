@@ -22,4 +22,4 @@ This is a PC or mobile game to play at any time! Essentially a re make of Subway
 
 ![Class] (<img width="885" alt="class diagram 2 0" src="https://user-images.githubusercontent.com/111709553/226434163-46c6e350-b5c8-4ac6-bf44-105ff40d3f03.png">)
 ![Classezzz] (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/Screen%20Shot%202023-03-20%20at%2012.28.30%20PM.png?raw=truec)
-![cat] (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/cat.png?raw=true)
+![cat] (<img width="612" alt="cat" src="https://user-images.githubusercontent.com/111539321/226434471-dd399511-3647-4aae-a865-1f20629affa7.png">)
