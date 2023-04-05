@@ -24,9 +24,9 @@ This is a PC or mobile game to play at any time! Essentially a re make of Subway
 <img width="612" alt="cat" src="https://user-images.githubusercontent.com/111539321/226434471-dd399511-3647-4aae-a865-1f20629affa7.png">
 
 ## TEAM RESPONSIBILITIES:
-### Nandhini - Project Manager
-### Lucca - Tester
-### Nithi - Multimedia Creator
-### Jack - UX/UI Designer
-### Carter - Developer
-### Max - Audio/Developer
+Nandhini - Project Manager
+Lucca - Tester
+Nithi - Multimedia Creator
+Jack - UX/UI Designer
+Carter - Developer
+Max - Audio/Developer
