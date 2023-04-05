@@ -26,8 +26,14 @@ This is a PC or mobile game to play at any time! Essentially a re make of Subway
 ### TEAM RESPONSIBILITIES:
 
 Nandhini - Project Manager
+
 Lucca - Tester
+
 Nithi - Multimedia Creator
+
 Jack - UX/UI Designer
+
 Carter - Developer
+
 Max - Audio/Developer
+
