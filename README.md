@@ -6,4 +6,14 @@
 ![start screen image](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/Screen%20Shot%202023-04-10%20at%2011.23.47%20AM.png?raw=true)
 
 ## End Screen(placeholder)- Nithi
-![endscreen](https://user-images.githubusercontent.com/111790832/230963403-3e6c62dc-90d6-4c03-bdd5-0eb09d35ef02.png)
+
+## Sound Design- Max
+# Title Theme
+# Game Start Sound
+# Main Sountrack
+# Jump Sound
+# Landing Sound
+# Item Collect Sound
+# Intermittent Meowing sound effect
+# Death Sound
+# Game End Sound
