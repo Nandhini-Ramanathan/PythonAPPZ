@@ -6,5 +6,5 @@
 ![start screen image](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/Screen%20Shot%202023-04-10%20at%2011.23.47%20AM.png?raw=true)
 
 ## End Screen(placeholder)- Nithi
-![Untitled-3](https://user-images.githubusercontent.com/111790832/230959426-3ec89492-a5a8-4eec-a921-540eb78ac504.png)
+
 
