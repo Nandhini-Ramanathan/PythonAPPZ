@@ -8,12 +8,12 @@
 ## End Screen(placeholder)- Nithi
 
 ## Sound Design- Max
-# Title Theme
-# Game Start Sound
-# Main Sountrack
-# Jump Sound
-# Landing Sound
-# Item Collect Sound
-# Intermittent Meowing sound effect
-# Death Sound
-# Game End Sound
+ Title Theme
+ Game Start Sound
+ Main Sountrack
+ Jump Sound
+ Landing Sound
+ Item Collect Sound
+ Intermittent Meowing sound effect
+ Death Sound
+ Game End Sound
