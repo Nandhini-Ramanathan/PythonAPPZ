@@ -8,13 +8,13 @@
 ## End Screen(placeholder)- Nithi
 ![endscreen](https://user-images.githubusercontent.com/111790832/230968037-f07a881d-9343-4e0d-9e9f-f96ceac6bb3f.png)
 
-## Sound Design- Max
- #Title Theme
- #Game Start Sound
- #Main Sountrack
- #Jump Sound
- #Landing Sound
- #Item Collect Sound
- #Intermittent Meowing sound effect
- #Death Sound
- #Game End Sound
+# Sound Design- Max
+### Title Theme
+### Game Start Sound
+### Main Sountrack
+### Jump Sound
+### Landing Sound
+### Item Collect Sound
+### Intermittent Meowing sound effect
+### Death Sound
+### Game End Sound
