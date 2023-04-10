@@ -39,4 +39,4 @@ Max - Audio/Developer
 
 ### Chracter(Ninja) Class 
 
-![Character] (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/character.png?raw=true)
+< src= "https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/character.png?raw=true">
