@@ -2,7 +2,7 @@
 
 ### TEAM RESPONSIBILITIES:
 
-Nandhini - Project Manager
+Nandhini - Project Manager/Developer
 
 Lucca - Tester
 
@@ -10,7 +10,7 @@ Nithi - Multimedia Creator
 
 Jack - UX/UI Designer
 
-Carter - Developer
+Carter - Graphic Designer/Developer
 
 Max - Audio/Developer
 
@@ -33,5 +33,3 @@ Max - Audio/Developer
 #### Intermittent Meowing sound effect
 #### Death Sound
 #### Game End Sound
-
-## Graphic Designer - Carter Newberg
