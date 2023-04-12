@@ -26,10 +26,11 @@ Max - Audio/Developer
 
 ## Start Screen(placeholder) - Jack
 ![start screen image](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Images/Screen%20Shot%202023-04-10%20at%2011.23.47%20AM.png?raw=true)
-![Code] (https://github.com/Nandhini-Ramanathan/PythonAPPZ/tree/main/src/Main/startscrenepain)
 
 ## End Screen(placeholder) - Nithi
 ![endscreen](https://user-images.githubusercontent.com/111790832/230968037-f07a881d-9343-4e0d-9e9f-f96ceac6bb3f.png)
+<img width="445" alt="Screen Shot 2023-04-12 at 11 48 14 AM" src="https://user-images.githubusercontent.com/111790832/231541515-d7ec2497-c1bf-4535-8618-911d0cee51a6.png">
+
 
 ## Sound Design - Max
 #### Title Theme
