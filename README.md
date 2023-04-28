@@ -13,8 +13,6 @@ Jack - UX/UI Designer
 Carter - Graphic Designer/Developer
 ![work in progress running animation] (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/runningcat.gif)
 
-Max - Audio/Developer
-
 ## Main - Nandhini
 <img width="313" alt="Screen Shot 2023-04-12 at 11 35 46 AM" src="https://user-images.githubusercontent.com/111539321/231538655-22b577df-b5f9-45a9-934c-27826e9f846f.png">
 
