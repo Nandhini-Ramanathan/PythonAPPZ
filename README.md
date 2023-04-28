@@ -30,7 +30,7 @@ Carter - Graphic Designer/Developer
 <img width="445" alt="Screen Shot 2023-04-12 at 11 48 14 AM" src="https://user-images.githubusercontent.com/111790832/231541515-d7ec2497-c1bf-4535-8618-911d0cee51a6.png">
 
 ## Background (placeholder) - Lucca
-!![New Piskel (1)](https://user-images.githubusercontent.com/111709553/235220727-dafa1fa0-832f-465f-a525-1e784df02227.png)
+![New Piskel (1)](https://user-images.githubusercontent.com/111709553/235220727-dafa1fa0-832f-465f-a525-1e784df02227.png)
 
 ## Sound Design - Max
 #### Title Theme https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20LOOP.mp3
