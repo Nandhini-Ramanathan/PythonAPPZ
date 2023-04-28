@@ -32,12 +32,12 @@ Carter - Graphic Designer/Developer
 
 ## Sound Design - Max
 #### Title Theme 
-#Start(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20START.mp3)
-#Loop(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20LOOP.mp3)
+Start(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20START.mp3)
+Loop(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20LOOP.mp3)
 #### Game Start Sound
 #### Main Sountrack
-#Start(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20START.mp3)
-#Loop(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20LOOP.mp3)
+Start(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20START.mp3)
+Loop(https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20LOOP.mp3)
 #### Jump Sound
 #### Landing Sound
 #### Item Collect Sound
