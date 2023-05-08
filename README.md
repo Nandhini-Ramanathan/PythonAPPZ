@@ -45,6 +45,5 @@ Loop (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20
 ### Jump Sound
 ### Landing Sound
 ### Item Collect Sound
-### Intermittent Meowing sound effect
 ### Death Sound
 ### Game End Sound
