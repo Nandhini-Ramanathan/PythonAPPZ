@@ -32,7 +32,7 @@ Carter - Graphic Designer/Developer
 ## Background (placeholder) - Lucca
 ![New Piskel (1)](https://user-images.githubusercontent.com/111709553/235220727-dafa1fa0-832f-465f-a525-1e784df02227.png)
 
-## Sound Design - Max
+## Sound Design - Max (PROBABLY CANCELLED [no functioning audio library])
 ### Title Theme
 Start (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20START.mp3)
 
