@@ -43,7 +43,9 @@ Start (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%2
 
 Loop (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20LOOP.mp3)
 ### Jump Sound
+https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/jump.mp3
 ### Landing Sound
+https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/landing.mp3
 ### Item Collect Sound
 ### Death Sound
 ### Game End Sound
