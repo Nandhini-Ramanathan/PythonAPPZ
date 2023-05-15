@@ -35,12 +35,11 @@ Carter - Graphic Designer/Developer
 ## Sound Design - Max (PROBABLY CANCELLED [no functioning audio library])
 ### Title Theme
 Start (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20START.mp3)
-
 Loop (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20LOOP.mp3)
 ### Game Start Sound
+https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/start%20screen%20begin.mp3
 ### Main Sountrack
 Start (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20START.mp3)
-
 Loop (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20LOOP.mp3)
 ### Jump Sound
 https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/jump.mp3
@@ -49,4 +48,6 @@ https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/landing.mp3
 ### Item Collect Sound
 https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/Item%20Collect.mp3
 ### Death Sound
+https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/Death%20Sound.mp3
 ### Game End Sound
+https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/end%20screen.mp3
