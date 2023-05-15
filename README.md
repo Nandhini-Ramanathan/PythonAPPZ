@@ -47,5 +47,6 @@ https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/jump.mp3
 ### Landing Sound
 https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/landing.mp3
 ### Item Collect Sound
+https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/Item%20Collect.mp3
 ### Death Sound
 ### Game End Sound
