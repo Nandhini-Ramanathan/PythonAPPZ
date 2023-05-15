@@ -5,9 +5,6 @@ class Ninja(object):
         self.h = 20
 
     def display(self):
-        # fill(0)
-        # noStroke()
-        # rect(self.xpos, self.ypos, 30, 50)
         img = loadImage("running.png")
         image(img, self.xpos, self.ypos)
         

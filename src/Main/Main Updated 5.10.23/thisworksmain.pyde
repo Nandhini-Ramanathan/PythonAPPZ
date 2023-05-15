@@ -3,7 +3,7 @@ from bg import Bg
 
 # Nandhini
 myNinja1 = Ninja(250, 290)
-myBg1 = Bg(500, 250, 2)
+myBg1 = Bg(0, 250)
 
 def setup():
     size(1000,800)
@@ -11,7 +11,6 @@ def setup():
     global screen
     img = loadImage("startscreen.png")
     screen = 1
-    imageMode(CORNER)
 
 def draw(): 
     print(screen)
@@ -35,7 +34,6 @@ def playScreen():
     global myBg1
     background(0)
     myBg1.display()
-    myBg1.move()
     myNinja1.display()
     
 def keyPressed():
@@ -45,9 +43,5 @@ def keyPressed():
             myNinja1.ypos -= 160
         if keyCode == DOWN:
             myNinja1.ypos += 160
-            
-def reachedEnd():
-        if myBg1.xpos <= -myBg1.w:
-            myBg1.xpos = 0
-            image(myBg1.img, myBg1.xpos, 0)
+
         
