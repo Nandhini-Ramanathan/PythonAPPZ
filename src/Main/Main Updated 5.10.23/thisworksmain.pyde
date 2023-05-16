@@ -1,7 +1,5 @@
 from ninja import Ninja
 from bg import Bg
-
-# Nandhini
 myNinja1 = Ninja(250, 290)
 myBg1 = Bg(0, 250)
 
@@ -38,10 +36,14 @@ def playScreen():
     
 def keyPressed():
     global ninja
-    if key == CODED:
+    if 290 <= myNinja1.ypos <= 610:
         if keyCode == UP:
             myNinja1.ypos -= 160
+
+    if 0 <= myNinja1.ypos <= 290:
         if keyCode == DOWN:
             myNinja1.ypos += 160
+            
+        
 
         

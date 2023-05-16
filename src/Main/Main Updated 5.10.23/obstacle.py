@@ -14,7 +14,7 @@ class Obstacle(object):
             self.xpos = width
         
     boolean intersect(self, ninja):
-        d = dist(self.x, self.y, ninja.x, ninja. y)
+        d = dist(self.x, self.y, ninja.x, ninja.y)
         if d < 50:
             return True
         else:
