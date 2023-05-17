@@ -15,7 +15,7 @@ class Obstacle(object):
             self.xpos = -50
     
     def intersect(self, ninja):
-        if self.xpos < ninja.xpos + ninja.xpos + 100 or self.xpos + 50 > ninja.xpos or self.ypos < ninja.ypos + ninja.ypos +100 or self.ypos + 50 > ninja.ypos:
+        if self.xpos < ninja.xpos + ninja.xpos + 100 or self.xpos + 50 > ninja.xpos and self.ypos < ninja.ypos + ninja.ypos + 100 and self.ypos + 50 > ninja.ypos:
             return True
         else:
             return False
