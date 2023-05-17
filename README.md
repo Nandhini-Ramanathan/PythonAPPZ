@@ -13,7 +13,6 @@ Jack - UX/UI Designer
 Max - Audio Design/Developer
 
 Carter - Graphic Designer/Developer
-![work in progress running animation] (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/runningcat.gif)
 
 ## Main - Nandhini
 <img width="313" alt="Screen Shot 2023-04-12 at 11 35 46 AM" src="https://user-images.githubusercontent.com/111539321/231538655-22b577df-b5f9-45a9-934c-27826e9f846f.png">
@@ -33,6 +32,9 @@ Carter - Graphic Designer/Developer
 
 ## Background (placeholder) - Lucca
 ![New Piskel (1)](https://user-images.githubusercontent.com/111709553/235220727-dafa1fa0-832f-465f-a525-1e784df02227.png)
+
+## Running Animation - Carter
+![](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/running.gif)
 
 ## Sound Design - Max (CANCELLED [no functioning audio library])
 ### Title Theme
