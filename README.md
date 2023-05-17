@@ -38,8 +38,7 @@ Carter - Graphic Designer/Developer
 
 ## Sound Design - Max (CANCELLED [no functioning audio library])
 ### Title Theme
-Start 
-![](https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20START.mp4)
+Start (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/GAME%20START.mp3)
 
 Loop (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/Assets/TITLE%20LOOP.mp3)
 ### Game Start Sound
