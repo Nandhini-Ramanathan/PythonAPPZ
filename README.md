@@ -10,6 +10,8 @@ Nithi - Multimedia Creator
 
 Jack - UX/UI Designer
 
+Max - Audio Design/Developer
+
 Carter - Graphic Designer/Developer
 ![work in progress running animation] (https://github.com/Nandhini-Ramanathan/PythonAPPZ/blob/main/runningcat.gif)
 
