@@ -1,4 +1,4 @@
-# 2d Subway Surfers rip-off 
+# Kitty Run
 
 ### TEAM RESPONSIBILITIES:
 
